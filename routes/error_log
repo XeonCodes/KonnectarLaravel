@@ -1,0 +1,16 @@
+[24-Sep-2023 10:38:55 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/konnecta/public_html/connect.konnectar.site/routes/api.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/konnecta/public_html/connect.konnectar.site/routes/api.php on line 17
+[24-Sep-2023 11:11:38 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/konnecta/public_html/connect.konnectar.site/routes/api.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/konnecta/public_html/connect.konnectar.site/routes/api.php on line 17
+[24-Sep-2023 11:11:42 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/konnecta/public_html/connect.konnectar.site/routes/api.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/konnecta/public_html/connect.konnectar.site/routes/api.php on line 17
+[24-Sep-2023 11:11:44 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/konnecta/public_html/connect.konnectar.site/routes/api.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/konnecta/public_html/connect.konnectar.site/routes/api.php on line 17
